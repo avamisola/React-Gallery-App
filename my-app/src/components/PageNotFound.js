@@ -1,5 +1,6 @@
 import React from 'react';
 
+//display message for page not found
 const PageNotFound = () => (
   <div className="photo-container">
     <ul>
